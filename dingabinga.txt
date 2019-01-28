@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA4A-012B
+
+ Directory of C:\Users\TYSS\Desktop\ChangiMangi
+
+28-01-2019  10:08    <DIR>          .
+28-01-2019  10:08    <DIR>          ..
+28-01-2019  10:08                 0 dingabinga.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  131,859,341,312 bytes free
